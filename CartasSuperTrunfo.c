@@ -25,7 +25,7 @@ int main() {
   scanf("%s", estado1);
 
   printf("Digite o codigo da carta 1:\n");
-  scanf("%s", & codigos1);
+  scanf("%s", codigos1);
 
   printf("Digite sua primeira cidade:\n");
   scanf("%s", cidade1);
